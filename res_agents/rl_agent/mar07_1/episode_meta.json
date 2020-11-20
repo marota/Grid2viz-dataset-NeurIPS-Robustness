@@ -1,0 +1,11 @@
+{
+    "agent_seed": 90737420,
+    "backend_type": "LightSimBackend_input_data_test",
+    "chronics_max_timestep": "2016",
+    "chronics_path": "/Users/antoinemarot/Grid2Op_EnvironmentDesign/competition_codalab/L2RPN_neurips2020_track1/input_data_test/chronics/mar07.1",
+    "cumulative_reward": 1781552.125,
+    "env_seed": 1103758188,
+    "env_type": "Environment_input_data_test",
+    "grid_path": "/Users/antoinemarot/Grid2Op_EnvironmentDesign/competition_codalab/L2RPN_neurips2020_track1/input_data_test/grid.json",
+    "nb_timestep_played": 2016
+}

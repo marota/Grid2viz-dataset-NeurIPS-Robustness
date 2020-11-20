@@ -1,0 +1,2240 @@
+[
+    {
+        "grid_operation_cost": 276.3525390625
+    },
+    {
+        "grid_operation_cost": 269.81689453125
+    },
+    {
+        "grid_operation_cost": 269.4287109375
+    },
+    {
+        "grid_operation_cost": 275.69091796875
+    },
+    {
+        "grid_operation_cost": 280.2490234375
+    },
+    {
+        "grid_operation_cost": 283.642578125
+    },
+    {
+        "grid_operation_cost": 283.59130859375
+    },
+    {
+        "grid_operation_cost": 285.3662109375
+    },
+    {
+        "grid_operation_cost": 289.4287109375
+    },
+    {
+        "grid_operation_cost": 286.07666015625
+    },
+    {
+        "grid_operation_cost": 283.30322265625
+    },
+    {
+        "grid_operation_cost": 288.3935546875
+    },
+    {
+        "grid_operation_cost": 286.75048828125
+    },
+    {
+        "grid_operation_cost": 287.91748046875
+    },
+    {
+        "grid_operation_cost": 292.9541015625
+    },
+    {
+        "grid_operation_cost": 280.87646484375
+    },
+    {
+        "grid_operation_cost": 286.74072265625
+    },
+    {
+        "grid_operation_cost": 293.2861328125
+    },
+    {
+        "grid_operation_cost": 283.70849609375
+    },
+    {
+        "grid_operation_cost": 286.81884765625
+    },
+    {
+        "grid_operation_cost": 284.17236328125
+    },
+    {
+        "grid_operation_cost": 280.283203125
+    },
+    {
+        "grid_operation_cost": 272.4365234375
+    },
+    {
+        "grid_operation_cost": 274.72900390625
+    },
+    {
+        "grid_operation_cost": 277.1728515625
+    },
+    {
+        "grid_operation_cost": 280.0439453125
+    },
+    {
+        "grid_operation_cost": 285.2880859375
+    },
+    {
+        "grid_operation_cost": 291.5478515625
+    },
+    {
+        "grid_operation_cost": 294.59228515625
+    },
+    {
+        "grid_operation_cost": 302.56591796875
+    },
+    {
+        "grid_operation_cost": 306.7919921875
+    },
+    {
+        "grid_operation_cost": 311.65771484375
+    },
+    {
+        "grid_operation_cost": 325.41015625
+    },
+    {
+        "grid_operation_cost": 320.4345703125
+    },
+    {
+        "grid_operation_cost": 320.0244140625
+    },
+    {
+        "grid_operation_cost": 314.541015625
+    },
+    {
+        "grid_operation_cost": 311.0498046875
+    },
+    {
+        "grid_operation_cost": 311.28662109375
+    },
+    {
+        "grid_operation_cost": 307.89306640625
+    },
+    {
+        "grid_operation_cost": 305.84228515625
+    },
+    {
+        "grid_operation_cost": 304.599609375
+    },
+    {
+        "grid_operation_cost": 301.21826171875
+    },
+    {
+        "grid_operation_cost": 300.2783203125
+    },
+    {
+        "grid_operation_cost": 296.24755859375
+    },
+    {
+        "grid_operation_cost": 294.296875
+    },
+    {
+        "grid_operation_cost": 289.0234375
+    },
+    {
+        "grid_operation_cost": 292.1435546875
+    },
+    {
+        "grid_operation_cost": 286.572265625
+    },
+    {
+        "grid_operation_cost": 282.6806640625
+    },
+    {
+        "grid_operation_cost": 279.66796875
+    },
+    {
+        "grid_operation_cost": 274.4873046875
+    },
+    {
+        "grid_operation_cost": 273.75244140625
+    },
+    {
+        "grid_operation_cost": 271.6259765625
+    },
+    {
+        "grid_operation_cost": 265.693359375
+    },
+    {
+        "grid_operation_cost": 262.17529296875
+    },
+    {
+        "grid_operation_cost": 259.99755859375
+    },
+    {
+        "grid_operation_cost": 256.03515625
+    },
+    {
+        "grid_operation_cost": 253.73291015625
+    },
+    {
+        "grid_operation_cost": 249.6142578125
+    },
+    {
+        "grid_operation_cost": 247.49267578125
+    },
+    {
+        "grid_operation_cost": 245.09765625
+    },
+    {
+        "grid_operation_cost": 243.18603515625
+    },
+    {
+        "grid_operation_cost": 240.8837890625
+    },
+    {
+        "grid_operation_cost": 239.23828125
+    },
+    {
+        "grid_operation_cost": 236.5966796875
+    },
+    {
+        "grid_operation_cost": 237.02880859375
+    },
+    {
+        "grid_operation_cost": 235.22216796875
+    },
+    {
+        "grid_operation_cost": 232.7978515625
+    },
+    {
+        "grid_operation_cost": 232.705078125
+    },
+    {
+        "grid_operation_cost": 230.86669921875
+    },
+    {
+        "grid_operation_cost": 230.888671875
+    },
+    {
+        "grid_operation_cost": 229.296875
+    },
+    {
+        "grid_operation_cost": 226.91650390625
+    },
+    {
+        "grid_operation_cost": 227.18994140625
+    },
+    {
+        "grid_operation_cost": 226.11572265625
+    },
+    {
+        "grid_operation_cost": 223.48388671875
+    },
+    {
+        "grid_operation_cost": 225.53466796875
+    },
+    {
+        "grid_operation_cost": 224.609375
+    },
+    {
+        "grid_operation_cost": 223.21533203125
+    },
+    {
+        "grid_operation_cost": 223.4423828125
+    },
+    {
+        "grid_operation_cost": 223.30322265625
+    },
+    {
+        "grid_operation_cost": 221.43798828125
+    },
+    {
+        "grid_operation_cost": 220.7958984375
+    },
+    {
+        "grid_operation_cost": 221.64794921875
+    },
+    {
+        "grid_operation_cost": 222.15087890625
+    },
+    {
+        "grid_operation_cost": 220.0732421875
+    },
+    {
+        "grid_operation_cost": 218.79150390625
+    },
+    {
+        "grid_operation_cost": 219.4384765625
+    },
+    {
+        "grid_operation_cost": 220.20263671875
+    },
+    {
+        "grid_operation_cost": 219.52392578125
+    },
+    {
+        "grid_operation_cost": 217.60009765625
+    },
+    {
+        "grid_operation_cost": 216.03271484375
+    },
+    {
+        "grid_operation_cost": 217.2607421875
+    },
+    {
+        "grid_operation_cost": 215.2294921875
+    },
+    {
+        "grid_operation_cost": 214.18701171875
+    },
+    {
+        "grid_operation_cost": 214.5654296875
+    },
+    {
+        "grid_operation_cost": 212.5537109375
+    },
+    {
+        "grid_operation_cost": 213.1787109375
+    },
+    {
+        "grid_operation_cost": 214.52880859375
+    },
+    {
+        "grid_operation_cost": 213.1640625
+    },
+    {
+        "grid_operation_cost": 213.3349609375
+    },
+    {
+        "grid_operation_cost": 213.447265625
+    },
+    {
+        "grid_operation_cost": 213.3447265625
+    },
+    {
+        "grid_operation_cost": 213.9697265625
+    },
+    {
+        "grid_operation_cost": 213.93798828125
+    },
+    {
+        "grid_operation_cost": 214.814453125
+    },
+    {
+        "grid_operation_cost": 214.6044921875
+    },
+    {
+        "grid_operation_cost": 214.54345703125
+    },
+    {
+        "grid_operation_cost": 217.59521484375
+    },
+    {
+        "grid_operation_cost": 214.66796875
+    },
+    {
+        "grid_operation_cost": 216.85302734375
+    },
+    {
+        "grid_operation_cost": 215.986328125
+    },
+    {
+        "grid_operation_cost": 217.70751953125
+    },
+    {
+        "grid_operation_cost": 219.609375
+    },
+    {
+        "grid_operation_cost": 219.47265625
+    },
+    {
+        "grid_operation_cost": 220.3125
+    },
+    {
+        "grid_operation_cost": 221.5185546875
+    },
+    {
+        "grid_operation_cost": 222.7880859375
+    },
+    {
+        "grid_operation_cost": 224.36279296875
+    },
+    {
+        "grid_operation_cost": 223.44482421875
+    },
+    {
+        "grid_operation_cost": 223.5546875
+    },
+    {
+        "grid_operation_cost": 225.72265625
+    },
+    {
+        "grid_operation_cost": 229.28955078125
+    },
+    {
+        "grid_operation_cost": 227.646484375
+    },
+    {
+        "grid_operation_cost": 226.435546875
+    },
+    {
+        "grid_operation_cost": 228.11279296875
+    },
+    {
+        "grid_operation_cost": 229.8681640625
+    },
+    {
+        "grid_operation_cost": 232.7197265625
+    },
+    {
+        "grid_operation_cost": 232.1142578125
+    },
+    {
+        "grid_operation_cost": 231.99951171875
+    },
+    {
+        "grid_operation_cost": 233.71337890625
+    },
+    {
+        "grid_operation_cost": 235.654296875
+    },
+    {
+        "grid_operation_cost": 236.5625
+    },
+    {
+        "grid_operation_cost": 236.06201171875
+    },
+    {
+        "grid_operation_cost": 240.22216796875
+    },
+    {
+        "grid_operation_cost": 239.70947265625
+    },
+    {
+        "grid_operation_cost": 243.0615234375
+    },
+    {
+        "grid_operation_cost": 242.744140625
+    },
+    {
+        "grid_operation_cost": 247.91015625
+    },
+    {
+        "grid_operation_cost": 250.6494140625
+    },
+    {
+        "grid_operation_cost": 251.8017578125
+    },
+    {
+        "grid_operation_cost": 254.39453125
+    },
+    {
+        "grid_operation_cost": 258.642578125
+    },
+    {
+        "grid_operation_cost": 257.744140625
+    },
+    {
+        "grid_operation_cost": 263.64013671875
+    },
+    {
+        "grid_operation_cost": 267.8955078125
+    },
+    {
+        "grid_operation_cost": 269.677734375
+    },
+    {
+        "grid_operation_cost": 275.83740234375
+    },
+    {
+        "grid_operation_cost": 280.7958984375
+    },
+    {
+        "grid_operation_cost": 283.0615234375
+    },
+    {
+        "grid_operation_cost": 287.7880859375
+    },
+    {
+        "grid_operation_cost": 293.78173828125
+    },
+    {
+        "grid_operation_cost": 296.59423828125
+    },
+    {
+        "grid_operation_cost": 299.31640625
+    },
+    {
+        "grid_operation_cost": 305.712890625
+    },
+    {
+        "grid_operation_cost": 314.46044921875
+    },
+    {
+        "grid_operation_cost": 319.16259765625
+    },
+    {
+        "grid_operation_cost": 326.14990234375
+    },
+    {
+        "grid_operation_cost": 332.7001953125
+    },
+    {
+        "grid_operation_cost": 341.5283203125
+    },
+    {
+        "grid_operation_cost": 345.78369140625
+    },
+    {
+        "grid_operation_cost": 353.22265625
+    },
+    {
+        "grid_operation_cost": 362.64892578125
+    },
+    {
+        "grid_operation_cost": 374.88525390625
+    },
+    {
+        "grid_operation_cost": 381.64794921875
+    },
+    {
+        "grid_operation_cost": 387.14599609375
+    },
+    {
+        "grid_operation_cost": 401.46728515625
+    },
+    {
+        "grid_operation_cost": 409.67529296875
+    },
+    {
+        "grid_operation_cost": 416.66748046875
+    },
+    {
+        "grid_operation_cost": 425.2978515625
+    },
+    {
+        "grid_operation_cost": 436.42333984375
+    },
+    {
+        "grid_operation_cost": 443.73291015625
+    },
+    {
+        "grid_operation_cost": 448.798828125
+    },
+    {
+        "grid_operation_cost": 449.775390625
+    },
+    {
+        "grid_operation_cost": 460.61767578125
+    },
+    {
+        "grid_operation_cost": 468.22509765625
+    },
+    {
+        "grid_operation_cost": 470.86181640625
+    },
+    {
+        "grid_operation_cost": 476.81884765625
+    },
+    {
+        "grid_operation_cost": 483.08837890625
+    },
+    {
+        "grid_operation_cost": 485.400390625
+    },
+    {
+        "grid_operation_cost": 491.30859375
+    },
+    {
+        "grid_operation_cost": 499.248046875
+    },
+    {
+        "grid_operation_cost": 506.875
+    },
+    {
+        "grid_operation_cost": 499.01611328125
+    },
+    {
+        "grid_operation_cost": 502.490234375
+    },
+    {
+        "grid_operation_cost": 500.31494140625
+    },
+    {
+        "grid_operation_cost": 505.65673828125
+    },
+    {
+        "grid_operation_cost": 503.45947265625
+    },
+    {
+        "grid_operation_cost": 495.49560546875
+    },
+    {
+        "grid_operation_cost": 503.017578125
+    },
+    {
+        "grid_operation_cost": 492.82470703125
+    },
+    {
+        "grid_operation_cost": 493.64013671875
+    },
+    {
+        "grid_operation_cost": 489.31396484375
+    },
+    {
+        "grid_operation_cost": 489.521484375
+    },
+    {
+        "grid_operation_cost": 475.51513671875
+    },
+    {
+        "grid_operation_cost": 483.2080078125
+    },
+    {
+        "grid_operation_cost": 477.001953125
+    },
+    {
+        "grid_operation_cost": 470.9423828125
+    },
+    {
+        "grid_operation_cost": 465.16357421875
+    },
+    {
+        "grid_operation_cost": 455.4296875
+    },
+    {
+        "grid_operation_cost": 454.7216796875
+    },
+    {
+        "grid_operation_cost": 453.41552734375
+    },
+    {
+        "grid_operation_cost": 442.12158203125
+    },
+    {
+        "grid_operation_cost": 438.70849609375
+    },
+    {
+        "grid_operation_cost": 432.76611328125
+    },
+    {
+        "grid_operation_cost": 431.23779296875
+    },
+    {
+        "grid_operation_cost": 426.13037109375
+    },
+    {
+        "grid_operation_cost": 416.5185546875
+    },
+    {
+        "grid_operation_cost": 415.75439453125
+    },
+    {
+        "grid_operation_cost": 414.34814453125
+    },
+    {
+        "grid_operation_cost": 409.90966796875
+    },
+    {
+        "grid_operation_cost": 409.22607421875
+    },
+    {
+        "grid_operation_cost": 401.97509765625
+    },
+    {
+        "grid_operation_cost": 405.56396484375
+    },
+    {
+        "grid_operation_cost": 396.18408203125
+    },
+    {
+        "grid_operation_cost": 393.75732421875
+    },
+    {
+        "grid_operation_cost": 390.85205078125
+    },
+    {
+        "grid_operation_cost": 391.15478515625
+    },
+    {
+        "grid_operation_cost": 387.998046875
+    },
+    {
+        "grid_operation_cost": 388.642578125
+    },
+    {
+        "grid_operation_cost": 381.4453125
+    },
+    {
+        "grid_operation_cost": 378.80615234375
+    },
+    {
+        "grid_operation_cost": 382.900390625
+    },
+    {
+        "grid_operation_cost": 365.89599609375
+    },
+    {
+        "grid_operation_cost": 373.7841796875
+    },
+    {
+        "grid_operation_cost": 373.74267578125
+    },
+    {
+        "grid_operation_cost": 386.38427734375
+    },
+    {
+        "grid_operation_cost": 385.45654296875
+    },
+    {
+        "grid_operation_cost": 387.548828125
+    },
+    {
+        "grid_operation_cost": 391.3671875
+    },
+    {
+        "grid_operation_cost": 393.0908203125
+    },
+    {
+        "grid_operation_cost": 388.671875
+    },
+    {
+        "grid_operation_cost": 392.158203125
+    },
+    {
+        "grid_operation_cost": 386.77734375
+    },
+    {
+        "grid_operation_cost": 386.62109375
+    },
+    {
+        "grid_operation_cost": 384.35546875
+    },
+    {
+        "grid_operation_cost": 380.361328125
+    },
+    {
+        "grid_operation_cost": 378.8232421875
+    },
+    {
+        "grid_operation_cost": 376.298828125
+    },
+    {
+        "grid_operation_cost": 376.12060546875
+    },
+    {
+        "grid_operation_cost": 373.9306640625
+    },
+    {
+        "grid_operation_cost": 377.44140625
+    },
+    {
+        "grid_operation_cost": 377.333984375
+    },
+    {
+        "grid_operation_cost": 377.9638671875
+    },
+    {
+        "grid_operation_cost": 373.44482421875
+    },
+    {
+        "grid_operation_cost": 372.548828125
+    },
+    {
+        "grid_operation_cost": 367.70263671875
+    },
+    {
+        "grid_operation_cost": 362.35595703125
+    },
+    {
+        "grid_operation_cost": 363.33984375
+    },
+    {
+        "grid_operation_cost": 358.32763671875
+    },
+    {
+        "grid_operation_cost": 358.90380859375
+    },
+    {
+        "grid_operation_cost": 344.8876953125
+    },
+    {
+        "grid_operation_cost": 332.7587890625
+    },
+    {
+        "grid_operation_cost": 326.48193359375
+    },
+    {
+        "grid_operation_cost": 329.98779296875
+    },
+    {
+        "grid_operation_cost": 340.75927734375
+    },
+    {
+        "grid_operation_cost": 340.888671875
+    },
+    {
+        "grid_operation_cost": 342.94921875
+    },
+    {
+        "grid_operation_cost": 353.81103515625
+    },
+    {
+        "grid_operation_cost": 356.29638671875
+    },
+    {
+        "grid_operation_cost": 352.82470703125
+    },
+    {
+        "grid_operation_cost": 355.478515625
+    },
+    {
+        "grid_operation_cost": 354.3408203125
+    },
+    {
+        "grid_operation_cost": 356.9970703125
+    },
+    {
+        "grid_operation_cost": 353.60107421875
+    },
+    {
+        "grid_operation_cost": 352.91259765625
+    },
+    {
+        "grid_operation_cost": 356.87744140625
+    },
+    {
+        "grid_operation_cost": 355.595703125
+    },
+    {
+        "grid_operation_cost": 353.11767578125
+    },
+    {
+        "grid_operation_cost": 356.11572265625
+    },
+    {
+        "grid_operation_cost": 357.32421875
+    },
+    {
+        "grid_operation_cost": 355.12939453125
+    },
+    {
+        "grid_operation_cost": 350.45654296875
+    },
+    {
+        "grid_operation_cost": 340.40283203125
+    },
+    {
+        "grid_operation_cost": 331.171875
+    },
+    {
+        "grid_operation_cost": 325.23681640625
+    },
+    {
+        "grid_operation_cost": 316.68701171875
+    },
+    {
+        "grid_operation_cost": 307.30712890625
+    },
+    {
+        "grid_operation_cost": 296.30859375
+    },
+    {
+        "grid_operation_cost": 289.39453125
+    },
+    {
+        "grid_operation_cost": 283.17626953125
+    },
+    {
+        "grid_operation_cost": 277.8955078125
+    },
+    {
+        "grid_operation_cost": 275.98388671875
+    },
+    {
+        "grid_operation_cost": 268.34716796875
+    },
+    {
+        "grid_operation_cost": 263.21044921875
+    },
+    {
+        "grid_operation_cost": 256.91162109375
+    },
+    {
+        "grid_operation_cost": 262.0068359375
+    },
+    {
+        "grid_operation_cost": 258.02490234375
+    },
+    {
+        "grid_operation_cost": 254.82666015625
+    },
+    {
+        "grid_operation_cost": 252.93701171875
+    },
+    {
+        "grid_operation_cost": 253.70849609375
+    },
+    {
+        "grid_operation_cost": 257.18994140625
+    },
+    {
+        "grid_operation_cost": 256.56494140625
+    },
+    {
+        "grid_operation_cost": 265.12451171875
+    },
+    {
+        "grid_operation_cost": 262.59765625
+    },
+    {
+        "grid_operation_cost": 255.98388671875
+    },
+    {
+        "grid_operation_cost": 253.4423828125
+    },
+    {
+        "grid_operation_cost": 249.677734375
+    },
+    {
+        "grid_operation_cost": 243.0810546875
+    },
+    {
+        "grid_operation_cost": 243.642578125
+    },
+    {
+        "grid_operation_cost": 239.97314453125
+    },
+    {
+        "grid_operation_cost": 237.38037109375
+    },
+    {
+        "grid_operation_cost": 237.7880859375
+    },
+    {
+        "grid_operation_cost": 241.88232421875
+    },
+    {
+        "grid_operation_cost": 243.61083984375
+    },
+    {
+        "grid_operation_cost": 246.083984375
+    },
+    {
+        "grid_operation_cost": 245.908203125
+    },
+    {
+        "grid_operation_cost": 248.9599609375
+    },
+    {
+        "grid_operation_cost": 255.12939453125
+    },
+    {
+        "grid_operation_cost": 259.17236328125
+    },
+    {
+        "grid_operation_cost": 262.8173828125
+    },
+    {
+        "grid_operation_cost": 266.7138671875
+    },
+    {
+        "grid_operation_cost": 270.31005859375
+    },
+    {
+        "grid_operation_cost": 278.41064453125
+    },
+    {
+        "grid_operation_cost": 280.791015625
+    },
+    {
+        "grid_operation_cost": 287.79296875
+    },
+    {
+        "grid_operation_cost": 297.08251953125
+    },
+    {
+        "grid_operation_cost": 302.2216796875
+    },
+    {
+        "grid_operation_cost": 309.3115234375
+    },
+    {
+        "grid_operation_cost": 316.21826171875
+    },
+    {
+        "grid_operation_cost": 317.6904296875
+    },
+    {
+        "grid_operation_cost": 320.6298828125
+    },
+    {
+        "grid_operation_cost": 319.365234375
+    },
+    {
+        "grid_operation_cost": 312.353515625
+    },
+    {
+        "grid_operation_cost": 315.38330078125
+    },
+    {
+        "grid_operation_cost": 312.83447265625
+    },
+    {
+        "grid_operation_cost": 312.6220703125
+    },
+    {
+        "grid_operation_cost": 311.4013671875
+    },
+    {
+        "grid_operation_cost": 306.8505859375
+    },
+    {
+        "grid_operation_cost": 311.8896484375
+    },
+    {
+        "grid_operation_cost": 308.3203125
+    },
+    {
+        "grid_operation_cost": 306.0302734375
+    },
+    {
+        "grid_operation_cost": 305.9716796875
+    },
+    {
+        "grid_operation_cost": 308.22021484375
+    },
+    {
+        "grid_operation_cost": 306.54541015625
+    },
+    {
+        "grid_operation_cost": 302.6953125
+    },
+    {
+        "grid_operation_cost": 302.7783203125
+    },
+    {
+        "grid_operation_cost": 299.8291015625
+    },
+    {
+        "grid_operation_cost": 298.12255859375
+    },
+    {
+        "grid_operation_cost": 301.77734375
+    },
+    {
+        "grid_operation_cost": 297.6171875
+    },
+    {
+        "grid_operation_cost": 295.97900390625
+    },
+    {
+        "grid_operation_cost": 295.64697265625
+    },
+    {
+        "grid_operation_cost": 292.4169921875
+    },
+    {
+        "grid_operation_cost": 291.1962890625
+    },
+    {
+        "grid_operation_cost": 287.8271484375
+    },
+    {
+        "grid_operation_cost": 289.15771484375
+    },
+    {
+        "grid_operation_cost": 284.10400390625
+    },
+    {
+        "grid_operation_cost": 282.56591796875
+    },
+    {
+        "grid_operation_cost": 281.7529296875
+    },
+    {
+        "grid_operation_cost": 279.20166015625
+    },
+    {
+        "grid_operation_cost": 276.97509765625
+    },
+    {
+        "grid_operation_cost": 274.19189453125
+    },
+    {
+        "grid_operation_cost": 272.22412109375
+    },
+    {
+        "grid_operation_cost": 272.0556640625
+    },
+    {
+        "grid_operation_cost": 272.03369140625
+    },
+    {
+        "grid_operation_cost": 267.509765625
+    },
+    {
+        "grid_operation_cost": 266.54541015625
+    },
+    {
+        "grid_operation_cost": 264.62158203125
+    },
+    {
+        "grid_operation_cost": 265.1416015625
+    },
+    {
+        "grid_operation_cost": 260.9619140625
+    },
+    {
+        "grid_operation_cost": 262.79296875
+    },
+    {
+        "grid_operation_cost": 259.21875
+    },
+    {
+        "grid_operation_cost": 261.7529296875
+    },
+    {
+        "grid_operation_cost": 260.40771484375
+    },
+    {
+        "grid_operation_cost": 257.14111328125
+    },
+    {
+        "grid_operation_cost": 259.82421875
+    },
+    {
+        "grid_operation_cost": 261.38916015625
+    },
+    {
+        "grid_operation_cost": 260.146484375
+    },
+    {
+        "grid_operation_cost": 260.36865234375
+    },
+    {
+        "grid_operation_cost": 259.4384765625
+    },
+    {
+        "grid_operation_cost": 262.5634765625
+    },
+    {
+        "grid_operation_cost": 265.4736328125
+    },
+    {
+        "grid_operation_cost": 267.24853515625
+    },
+    {
+        "grid_operation_cost": 264.9169921875
+    },
+    {
+        "grid_operation_cost": 263.447265625
+    },
+    {
+        "grid_operation_cost": 264.7802734375
+    },
+    {
+        "grid_operation_cost": 266.21337890625
+    },
+    {
+        "grid_operation_cost": 268.64990234375
+    },
+    {
+        "grid_operation_cost": 268.92578125
+    },
+    {
+        "grid_operation_cost": 268.47900390625
+    },
+    {
+        "grid_operation_cost": 269.970703125
+    },
+    {
+        "grid_operation_cost": 269.20654296875
+    },
+    {
+        "grid_operation_cost": 271.89453125
+    },
+    {
+        "grid_operation_cost": 270.9130859375
+    },
+    {
+        "grid_operation_cost": 270.9912109375
+    },
+    {
+        "grid_operation_cost": 271.89697265625
+    },
+    {
+        "grid_operation_cost": 271.25
+    },
+    {
+        "grid_operation_cost": 273.57421875
+    },
+    {
+        "grid_operation_cost": 266.33056640625
+    },
+    {
+        "grid_operation_cost": 271.08154296875
+    },
+    {
+        "grid_operation_cost": 264.814453125
+    },
+    {
+        "grid_operation_cost": 268.17626953125
+    },
+    {
+        "grid_operation_cost": 267.71484375
+    },
+    {
+        "grid_operation_cost": 272.236328125
+    },
+    {
+        "grid_operation_cost": 263.95751953125
+    },
+    {
+        "grid_operation_cost": 265.16357421875
+    },
+    {
+        "grid_operation_cost": 266.3427734375
+    },
+    {
+        "grid_operation_cost": 265.91064453125
+    },
+    {
+        "grid_operation_cost": 264.72900390625
+    },
+    {
+        "grid_operation_cost": 259.19921875
+    },
+    {
+        "grid_operation_cost": 262.75146484375
+    },
+    {
+        "grid_operation_cost": 262.30712890625
+    },
+    {
+        "grid_operation_cost": 260.23193359375
+    },
+    {
+        "grid_operation_cost": 259.71923828125
+    },
+    {
+        "grid_operation_cost": 260.60302734375
+    },
+    {
+        "grid_operation_cost": 261.35986328125
+    },
+    {
+        "grid_operation_cost": 260.5224609375
+    },
+    {
+        "grid_operation_cost": 261.06201171875
+    },
+    {
+        "grid_operation_cost": 257.93212890625
+    },
+    {
+        "grid_operation_cost": 260.341796875
+    },
+    {
+        "grid_operation_cost": 263.99169921875
+    },
+    {
+        "grid_operation_cost": 260.6494140625
+    },
+    {
+        "grid_operation_cost": 260.34912109375
+    },
+    {
+        "grid_operation_cost": 260.6982421875
+    },
+    {
+        "grid_operation_cost": 263.37890625
+    },
+    {
+        "grid_operation_cost": 262.99072265625
+    },
+    {
+        "grid_operation_cost": 264.384765625
+    },
+    {
+        "grid_operation_cost": 263.486328125
+    },
+    {
+        "grid_operation_cost": 265.8984375
+    },
+    {
+        "grid_operation_cost": 267.87109375
+    },
+    {
+        "grid_operation_cost": 271.7333984375
+    },
+    {
+        "grid_operation_cost": 273.4521484375
+    },
+    {
+        "grid_operation_cost": 275.654296875
+    },
+    {
+        "grid_operation_cost": 277.58544921875
+    },
+    {
+        "grid_operation_cost": 278.9599609375
+    },
+    {
+        "grid_operation_cost": 281.73095703125
+    },
+    {
+        "grid_operation_cost": 281.5087890625
+    },
+    {
+        "grid_operation_cost": 285.078125
+    },
+    {
+        "grid_operation_cost": 288.1640625
+    },
+    {
+        "grid_operation_cost": 293.173828125
+    },
+    {
+        "grid_operation_cost": 297.11669921875
+    },
+    {
+        "grid_operation_cost": 297.85888671875
+    },
+    {
+        "grid_operation_cost": 304.78515625
+    },
+    {
+        "grid_operation_cost": 311.025390625
+    },
+    {
+        "grid_operation_cost": 310.88623046875
+    },
+    {
+        "grid_operation_cost": 319.6435546875
+    },
+    {
+        "grid_operation_cost": 320.83984375
+    },
+    {
+        "grid_operation_cost": 326.43798828125
+    },
+    {
+        "grid_operation_cost": 328.54248046875
+    },
+    {
+        "grid_operation_cost": 334.296875
+    },
+    {
+        "grid_operation_cost": 338.51318359375
+    },
+    {
+        "grid_operation_cost": 346.79931640625
+    },
+    {
+        "grid_operation_cost": 351.728515625
+    },
+    {
+        "grid_operation_cost": 351.54052734375
+    },
+    {
+        "grid_operation_cost": 358.3251953125
+    },
+    {
+        "grid_operation_cost": 365.009765625
+    },
+    {
+        "grid_operation_cost": 367.99560546875
+    },
+    {
+        "grid_operation_cost": 376.7529296875
+    },
+    {
+        "grid_operation_cost": 386.59912109375
+    },
+    {
+        "grid_operation_cost": 389.0771484375
+    },
+    {
+        "grid_operation_cost": 394.83154296875
+    },
+    {
+        "grid_operation_cost": 404.7802734375
+    },
+    {
+        "grid_operation_cost": 406.86767578125
+    },
+    {
+        "grid_operation_cost": 412.5732421875
+    },
+    {
+        "grid_operation_cost": 421.3232421875
+    },
+    {
+        "grid_operation_cost": 429.06982421875
+    },
+    {
+        "grid_operation_cost": 435.47607421875
+    },
+    {
+        "grid_operation_cost": 437.7392578125
+    },
+    {
+        "grid_operation_cost": 440.4443359375
+    },
+    {
+        "grid_operation_cost": 447.55859375
+    },
+    {
+        "grid_operation_cost": 449.43359375
+    },
+    {
+        "grid_operation_cost": 445.38330078125
+    },
+    {
+        "grid_operation_cost": 449.00634765625
+    },
+    {
+        "grid_operation_cost": 453.4228515625
+    },
+    {
+        "grid_operation_cost": 456.85546875
+    },
+    {
+        "grid_operation_cost": 465.94482421875
+    },
+    {
+        "grid_operation_cost": 465.49072265625
+    },
+    {
+        "grid_operation_cost": 471.8603515625
+    },
+    {
+        "grid_operation_cost": 470.17333984375
+    },
+    {
+        "grid_operation_cost": 472.1484375
+    },
+    {
+        "grid_operation_cost": 473.5302734375
+    },
+    {
+        "grid_operation_cost": 478.2275390625
+    },
+    {
+        "grid_operation_cost": 476.54052734375
+    },
+    {
+        "grid_operation_cost": 468.0078125
+    },
+    {
+        "grid_operation_cost": 469.453125
+    },
+    {
+        "grid_operation_cost": 463.9501953125
+    },
+    {
+        "grid_operation_cost": 464.06005859375
+    },
+    {
+        "grid_operation_cost": 462.02880859375
+    },
+    {
+        "grid_operation_cost": 459.423828125
+    },
+    {
+        "grid_operation_cost": 453.69873046875
+    },
+    {
+        "grid_operation_cost": 454.10888671875
+    },
+    {
+        "grid_operation_cost": 448.30078125
+    },
+    {
+        "grid_operation_cost": 446.02294921875
+    },
+    {
+        "grid_operation_cost": 439.22119140625
+    },
+    {
+        "grid_operation_cost": 436.4013671875
+    },
+    {
+        "grid_operation_cost": 439.06494140625
+    },
+    {
+        "grid_operation_cost": 434.453125
+    },
+    {
+        "grid_operation_cost": 426.4404296875
+    },
+    {
+        "grid_operation_cost": 428.759765625
+    },
+    {
+        "grid_operation_cost": 426.56982421875
+    },
+    {
+        "grid_operation_cost": 416.767578125
+    },
+    {
+        "grid_operation_cost": 421.13037109375
+    },
+    {
+        "grid_operation_cost": 414.9267578125
+    },
+    {
+        "grid_operation_cost": 413.77685546875
+    },
+    {
+        "grid_operation_cost": 412.8759765625
+    },
+    {
+        "grid_operation_cost": 407.43408203125
+    },
+    {
+        "grid_operation_cost": 407.802734375
+    },
+    {
+        "grid_operation_cost": 397.998046875
+    },
+    {
+        "grid_operation_cost": 400.72998046875
+    },
+    {
+        "grid_operation_cost": 399.67529296875
+    },
+    {
+        "grid_operation_cost": 397.93212890625
+    },
+    {
+        "grid_operation_cost": 389.7705078125
+    },
+    {
+        "grid_operation_cost": 390.8642578125
+    },
+    {
+        "grid_operation_cost": 392.48779296875
+    },
+    {
+        "grid_operation_cost": 386.474609375
+    },
+    {
+        "grid_operation_cost": 385.5224609375
+    },
+    {
+        "grid_operation_cost": 386.435546875
+    },
+    {
+        "grid_operation_cost": 382.28759765625
+    },
+    {
+        "grid_operation_cost": 381.484375
+    },
+    {
+        "grid_operation_cost": 380.0927734375
+    },
+    {
+        "grid_operation_cost": 375.15380859375
+    },
+    {
+        "grid_operation_cost": 378.91357421875
+    },
+    {
+        "grid_operation_cost": 379.90966796875
+    },
+    {
+        "grid_operation_cost": 385.3515625
+    },
+    {
+        "grid_operation_cost": 382.8271484375
+    },
+    {
+        "grid_operation_cost": 388.359375
+    },
+    {
+        "grid_operation_cost": 391.2890625
+    },
+    {
+        "grid_operation_cost": 390.68603515625
+    },
+    {
+        "grid_operation_cost": 392.4951171875
+    },
+    {
+        "grid_operation_cost": 393.3056640625
+    },
+    {
+        "grid_operation_cost": 389.1357421875
+    },
+    {
+        "grid_operation_cost": 386.77734375
+    },
+    {
+        "grid_operation_cost": 383.9208984375
+    },
+    {
+        "grid_operation_cost": 387.10693359375
+    },
+    {
+        "grid_operation_cost": 380.8154296875
+    },
+    {
+        "grid_operation_cost": 381.4404296875
+    },
+    {
+        "grid_operation_cost": 381.25244140625
+    },
+    {
+        "grid_operation_cost": 377.9736328125
+    },
+    {
+        "grid_operation_cost": 381.00830078125
+    },
+    {
+        "grid_operation_cost": 378.603515625
+    },
+    {
+        "grid_operation_cost": 377.00927734375
+    },
+    {
+        "grid_operation_cost": 380.419921875
+    },
+    {
+        "grid_operation_cost": 376.5576171875
+    },
+    {
+        "grid_operation_cost": 368.41064453125
+    },
+    {
+        "grid_operation_cost": 370.5908203125
+    },
+    {
+        "grid_operation_cost": 367.70751953125
+    },
+    {
+        "grid_operation_cost": 364.97314453125
+    },
+    {
+        "grid_operation_cost": 356.65283203125
+    },
+    {
+        "grid_operation_cost": 342.64404296875
+    },
+    {
+        "grid_operation_cost": 336.14501953125
+    },
+    {
+        "grid_operation_cost": 324.453125
+    },
+    {
+        "grid_operation_cost": 333.408203125
+    },
+    {
+        "grid_operation_cost": 342.470703125
+    },
+    {
+        "grid_operation_cost": 352.568359375
+    },
+    {
+        "grid_operation_cost": 364.0234375
+    },
+    {
+        "grid_operation_cost": 358.9599609375
+    },
+    {
+        "grid_operation_cost": 360.16357421875
+    },
+    {
+        "grid_operation_cost": 357.109375
+    },
+    {
+        "grid_operation_cost": 358.1494140625
+    },
+    {
+        "grid_operation_cost": 355.90087890625
+    },
+    {
+        "grid_operation_cost": 353.12255859375
+    },
+    {
+        "grid_operation_cost": 354.94384765625
+    },
+    {
+        "grid_operation_cost": 355.9912109375
+    },
+    {
+        "grid_operation_cost": 358.66943359375
+    },
+    {
+        "grid_operation_cost": 354.04296875
+    },
+    {
+        "grid_operation_cost": 354.7412109375
+    },
+    {
+        "grid_operation_cost": 357.4755859375
+    },
+    {
+        "grid_operation_cost": 354.73876953125
+    },
+    {
+        "grid_operation_cost": 345.30517578125
+    },
+    {
+        "grid_operation_cost": 334.6728515625
+    },
+    {
+        "grid_operation_cost": 327.98828125
+    },
+    {
+        "grid_operation_cost": 316.80908203125
+    },
+    {
+        "grid_operation_cost": 308.28369140625
+    },
+    {
+        "grid_operation_cost": 300.01708984375
+    },
+    {
+        "grid_operation_cost": 287.67578125
+    },
+    {
+        "grid_operation_cost": 282.55859375
+    },
+    {
+        "grid_operation_cost": 274.443359375
+    },
+    {
+        "grid_operation_cost": 270.6591796875
+    },
+    {
+        "grid_operation_cost": 260.30517578125
+    },
+    {
+        "grid_operation_cost": 255.1123046875
+    },
+    {
+        "grid_operation_cost": 250.29052734375
+    },
+    {
+        "grid_operation_cost": 243.57666015625
+    },
+    {
+        "grid_operation_cost": 244.6044921875
+    },
+    {
+        "grid_operation_cost": 238.6962890625
+    },
+    {
+        "grid_operation_cost": 236.142578125
+    },
+    {
+        "grid_operation_cost": 238.5888671875
+    },
+    {
+        "grid_operation_cost": 236.32080078125
+    },
+    {
+        "grid_operation_cost": 236.552734375
+    },
+    {
+        "grid_operation_cost": 235.83740234375
+    },
+    {
+        "grid_operation_cost": 237.099609375
+    },
+    {
+        "grid_operation_cost": 229.25048828125
+    },
+    {
+        "grid_operation_cost": 230.9521484375
+    },
+    {
+        "grid_operation_cost": 223.84765625
+    },
+    {
+        "grid_operation_cost": 219.29931640625
+    },
+    {
+        "grid_operation_cost": 222.919921875
+    },
+    {
+        "grid_operation_cost": 213.525390625
+    },
+    {
+        "grid_operation_cost": 213.28857421875
+    },
+    {
+        "grid_operation_cost": 209.1259765625
+    },
+    {
+        "grid_operation_cost": 208.5009765625
+    },
+    {
+        "grid_operation_cost": 203.466796875
+    },
+    {
+        "grid_operation_cost": 198.72314453125
+    },
+    {
+        "grid_operation_cost": 192.29248046875
+    },
+    {
+        "grid_operation_cost": 194.5166015625
+    },
+    {
+        "grid_operation_cost": 189.73388671875
+    },
+    {
+        "grid_operation_cost": 183.69140625
+    },
+    {
+        "grid_operation_cost": 179.40185546875
+    },
+    {
+        "grid_operation_cost": 180.029296875
+    },
+    {
+        "grid_operation_cost": 176.640625
+    },
+    {
+        "grid_operation_cost": 174.58740234375
+    },
+    {
+        "grid_operation_cost": 171.8212890625
+    },
+    {
+        "grid_operation_cost": 172.06787109375
+    },
+    {
+        "grid_operation_cost": 170.65185546875
+    },
+    {
+        "grid_operation_cost": 167.69775390625
+    },
+    {
+        "grid_operation_cost": 166.455078125
+    },
+    {
+        "grid_operation_cost": 162.73681640625
+    },
+    {
+        "grid_operation_cost": 164.091796875
+    },
+    {
+        "grid_operation_cost": 158.8427734375
+    },
+    {
+        "grid_operation_cost": 158.0859375
+    },
+    {
+        "grid_operation_cost": 158.837890625
+    },
+    {
+        "grid_operation_cost": 155.0390625
+    },
+    {
+        "grid_operation_cost": 155.7958984375
+    },
+    {
+        "grid_operation_cost": 154.140625
+    },
+    {
+        "grid_operation_cost": 151.89697265625
+    },
+    {
+        "grid_operation_cost": 150.34912109375
+    },
+    {
+        "grid_operation_cost": 147.87841796875
+    },
+    {
+        "grid_operation_cost": 148.08349609375
+    },
+    {
+        "grid_operation_cost": 149.912109375
+    },
+    {
+        "grid_operation_cost": 144.052734375
+    },
+    {
+        "grid_operation_cost": 142.15087890625
+    },
+    {
+        "grid_operation_cost": 146.3232421875
+    },
+    {
+        "grid_operation_cost": 141.787109375
+    },
+    {
+        "grid_operation_cost": 143.76220703125
+    },
+    {
+        "grid_operation_cost": 142.50244140625
+    },
+    {
+        "grid_operation_cost": 139.87060546875
+    },
+    {
+        "grid_operation_cost": 140.64697265625
+    },
+    {
+        "grid_operation_cost": 138.36181640625
+    },
+    {
+        "grid_operation_cost": 139.84619140625
+    },
+    {
+        "grid_operation_cost": 136.10595703125
+    },
+    {
+        "grid_operation_cost": 133.74755859375
+    },
+    {
+        "grid_operation_cost": 133.92822265625
+    },
+    {
+        "grid_operation_cost": 134.53857421875
+    },
+    {
+        "grid_operation_cost": 134.83642578125
+    },
+    {
+        "grid_operation_cost": 132.7880859375
+    },
+    {
+        "grid_operation_cost": 135.5712890625
+    },
+    {
+        "grid_operation_cost": 134.443359375
+    },
+    {
+        "grid_operation_cost": 137.97607421875
+    },
+    {
+        "grid_operation_cost": 141.318359375
+    },
+    {
+        "grid_operation_cost": 143.75
+    },
+    {
+        "grid_operation_cost": 146.20849609375
+    },
+    {
+        "grid_operation_cost": 147.72216796875
+    },
+    {
+        "grid_operation_cost": 153.876953125
+    },
+    {
+        "grid_operation_cost": 157.1337890625
+    },
+    {
+        "grid_operation_cost": 161.4501953125
+    },
+    {
+        "grid_operation_cost": 169.0771484375
+    },
+    {
+        "grid_operation_cost": 174.99267578125
+    },
+    {
+        "grid_operation_cost": 178.5986328125
+    },
+    {
+        "grid_operation_cost": 186.6650390625
+    },
+    {
+        "grid_operation_cost": 195.1513671875
+    },
+    {
+        "grid_operation_cost": 203.66943359375
+    },
+    {
+        "grid_operation_cost": 213.583984375
+    },
+    {
+        "grid_operation_cost": 221.27197265625
+    },
+    {
+        "grid_operation_cost": 228.9990234375
+    },
+    {
+        "grid_operation_cost": 238.447265625
+    },
+    {
+        "grid_operation_cost": 229.9560546875
+    },
+    {
+        "grid_operation_cost": 221.56982421875
+    },
+    {
+        "grid_operation_cost": 225.4296875
+    },
+    {
+        "grid_operation_cost": 222.40234375
+    },
+    {
+        "grid_operation_cost": 227.67578125
+    },
+    {
+        "grid_operation_cost": 236.552734375
+    },
+    {
+        "grid_operation_cost": 240.849609375
+    },
+    {
+        "grid_operation_cost": 240.6005859375
+    },
+    {
+        "grid_operation_cost": 250.1611328125
+    },
+    {
+        "grid_operation_cost": 260.77880859375
+    },
+    {
+        "grid_operation_cost": 263.7109375
+    },
+    {
+        "grid_operation_cost": 263.037109375
+    },
+    {
+        "grid_operation_cost": 250.5322265625
+    },
+    {
+        "grid_operation_cost": 240.95947265625
+    },
+    {
+        "grid_operation_cost": 251.533203125
+    },
+    {
+        "grid_operation_cost": 252.67822265625
+    },
+    {
+        "grid_operation_cost": 253.115234375
+    },
+    {
+        "grid_operation_cost": 261.14990234375
+    },
+    {
+        "grid_operation_cost": 276.38916015625
+    },
+    {
+        "grid_operation_cost": 261.51611328125
+    },
+    {
+        "grid_operation_cost": 259.84130859375
+    },
+    {
+        "grid_operation_cost": 254.2822265625
+    },
+    {
+        "grid_operation_cost": 242.18505859375
+    },
+    {
+        "grid_operation_cost": 234.6923828125
+    },
+    {
+        "grid_operation_cost": 234.85107421875
+    },
+    {
+        "grid_operation_cost": 225.751953125
+    },
+    {
+        "grid_operation_cost": 234.00146484375
+    },
+    {
+        "grid_operation_cost": 243.30322265625
+    },
+    {
+        "grid_operation_cost": 243.55712890625
+    },
+    {
+        "grid_operation_cost": 246.05224609375
+    },
+    {
+        "grid_operation_cost": 256.41357421875
+    },
+    {
+        "grid_operation_cost": 265.7958984375
+    },
+    {
+        "grid_operation_cost": 255.7177734375
+    },
+    {
+        "grid_operation_cost": 245.55908203125
+    },
+    {
+        "grid_operation_cost": 234.50927734375
+    },
+    {
+        "grid_operation_cost": 225.8837890625
+    },
+    {
+        "grid_operation_cost": 219.83154296875
+    },
+    {
+        "grid_operation_cost": 212.30712890625
+    },
+    {
+        "grid_operation_cost": 206.572265625
+    },
+    {
+        "grid_operation_cost": 196.66015625
+    },
+    {
+        "grid_operation_cost": 192.451171875
+    },
+    {
+        "grid_operation_cost": 185.5224609375
+    },
+    {
+        "grid_operation_cost": 185.322265625
+    },
+    {
+        "grid_operation_cost": 188.13232421875
+    },
+    {
+        "grid_operation_cost": 180.29296875
+    },
+    {
+        "grid_operation_cost": 180.56884765625
+    },
+    {
+        "grid_operation_cost": 174.16748046875
+    },
+    {
+        "grid_operation_cost": 173.203125
+    },
+    {
+        "grid_operation_cost": 171.78466796875
+    },
+    {
+        "grid_operation_cost": 166.3916015625
+    },
+    {
+        "grid_operation_cost": 162.1435546875
+    },
+    {
+        "grid_operation_cost": 156.74072265625
+    },
+    {
+        "grid_operation_cost": 150.81787109375
+    },
+    {
+        "grid_operation_cost": 148.60595703125
+    },
+    {
+        "grid_operation_cost": 144.85107421875
+    },
+    {
+        "grid_operation_cost": 145.35888671875
+    },
+    {
+        "grid_operation_cost": 143.28125
+    },
+    {
+        "grid_operation_cost": 143.427734375
+    },
+    {
+        "grid_operation_cost": 144.53125
+    },
+    {
+        "grid_operation_cost": 150.04150390625
+    },
+    {
+        "grid_operation_cost": 154.6630859375
+    },
+    {
+        "grid_operation_cost": 151.97998046875
+    },
+    {
+        "grid_operation_cost": 148.8916015625
+    },
+    {
+        "grid_operation_cost": 149.29443359375
+    },
+    {
+        "grid_operation_cost": 151.72119140625
+    },
+    {
+        "grid_operation_cost": 149.65576171875
+    },
+    {
+        "grid_operation_cost": 150.31982421875
+    },
+    {
+        "grid_operation_cost": 151.46240234375
+    },
+    {
+        "grid_operation_cost": 156.73095703125
+    },
+    {
+        "grid_operation_cost": 158.45458984375
+    },
+    {
+        "grid_operation_cost": 164.5458984375
+    },
+    {
+        "grid_operation_cost": 225.61279296875
+    },
+    {
+        "grid_operation_cost": 233.98193359375
+    },
+    {
+        "grid_operation_cost": 239.736328125
+    },
+    {
+        "grid_operation_cost": 244.89990234375
+    },
+    {
+        "grid_operation_cost": 249.35791015625
+    },
+    {
+        "grid_operation_cost": 261.30859375
+    },
+    {
+        "grid_operation_cost": 268.18115234375
+    },
+    {
+        "grid_operation_cost": 276.53076171875
+    },
+    {
+        "grid_operation_cost": 279.0576171875
+    },
+    {
+        "grid_operation_cost": 290.2978515625
+    },
+    {
+        "grid_operation_cost": 319.169921875
+    },
+    {
+        "grid_operation_cost": 335.41748046875
+    },
+    {
+        "grid_operation_cost": 356.26708984375
+    },
+    {
+        "grid_operation_cost": 419.98779296875
+    },
+    {
+        "grid_operation_cost": 493.779296875
+    },
+    {
+        "grid_operation_cost": 538.251953125
+    },
+    {
+        "grid_operation_cost": 564.2529296875
+    },
+    {
+        "grid_operation_cost": 578.9794921875
+    },
+    {
+        "grid_operation_cost": 730.0146484375
+    },
+    {
+        "grid_operation_cost": 715.927734375
+    },
+    {
+        "grid_operation_cost": 1.0
+    }
+]
