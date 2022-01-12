@@ -1,0 +1,6 @@
+# enable nbserverproxy
+jupyter serverextension enable --sys-prefix nbserverproxy
+# grid2viz launches at startup
+mv .binder/grid2viz_call.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
+# enable grid2viz extension
+jupyter serverextension enable --sys-prefix grid2viz_call

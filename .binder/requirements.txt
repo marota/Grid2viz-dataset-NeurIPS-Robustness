@@ -1,0 +1,4 @@
+nbserverproxy >= 0.8
+jupyter-server-proxy >= 1.2.0
+jupyter-dash >= 0.3
+grid2viz >= 1.1
