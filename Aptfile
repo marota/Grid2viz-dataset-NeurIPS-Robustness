@@ -1,0 +1,3 @@
+liblapack-dev 
+libblas-dev
+gfortran
