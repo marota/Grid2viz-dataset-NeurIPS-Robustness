@@ -1,3 +1,4 @@
 liblapack-dev 
 libblas-dev
 gfortran
+python3-scipy
